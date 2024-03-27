@@ -1,5 +1,8 @@
 🚧🚧🚧 Under construction 🚧🚧🚧
 
+I'm currently learning about blockchain and smart contracts development.
+Just began this journey! 🚀
+
 <!---
 - 👋 Hi, I’m @glorin-aran
 - 👀 I’m interested in ...
